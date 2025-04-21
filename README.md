@@ -51,3 +51,10 @@ npm install
 
 # Start the development server
 npm run dev
+
+🙌 Contributing
+Contributions and feedback are welcome!
+If you have ideas for new animations or features, feel free to open an issue or submit a PR.
+
+📜 License
+This project is licensed under the MIT License.
